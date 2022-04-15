@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\Lab3Assignment.exe
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\Lab3Assignment.deps.json
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\Lab3Assignment.runtimeconfig.json
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\Lab3Assignment.runtimeconfig.dev.json
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\Lab3Assignment.dll
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\ref\Lab3Assignment.dll
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\bin\Debug\net5.0\Lab3Assignment.pdb
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.AssemblyInfo.cs
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.dll
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\ref\Lab3Assignment.dll
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.pdb
+C:\Users\USER\Desktop\WellaHealth School\Lab3Assignment\obj\Debug\net5.0\Lab3Assignment.genruntimeconfig.cache
